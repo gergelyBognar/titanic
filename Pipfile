@@ -14,6 +14,7 @@ seaborn = "*"
 scikit-learn = "*"
 pydotplus = "*"
 pandas-profiling = "*"
+catboost = "*"
 
 [requires]
 python_version = "3.7"
