@@ -15,6 +15,7 @@ scikit-learn = "*"
 pydotplus = "*"
 pandas-profiling = "*"
 catboost = "*"
+shap = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.5"
